@@ -28,3 +28,6 @@ h6 {
   color: var(--mainYellow);
   font-size: 2rem;
 }
+.default-background {
+  min-height: 100vh;
+}
